@@ -12,7 +12,7 @@ body {
 .bkgrnd-img {
     width: 850px;
     height: 450px;
-    background-image: url("/galaxy.jpg");
+    background-image: url("galaxy.jpg");
     background-repeat: no-repeat;
     background-position: bottom;
     margin-top: 0;
